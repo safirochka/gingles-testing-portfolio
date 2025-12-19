@@ -39,7 +39,7 @@
 ## Katalog produktů
 
 | ID     | Sekce       | Kontrolní bod                                                   | Priorita | Status      | Poznámky |
-|--------|-------------|--------------------------------------------------------     ----|----------|-------------|----------|
+|--------|-------------|-----------------------------------------------------------------|----------|-------------|----------|
 | CAT-01 | Katalog     | Stránka katalogu se načítá bez chyb                             | High     | Netestováno |          |
 | CAT-02 | Katalog     | Produkty mají název, cenu a obrázek                             | High     | Netestováno |          |
 | CAT-03 | Katalog     | Kliknutí na produkt vede na detail produktu                     | High     | Netestováno |          |
