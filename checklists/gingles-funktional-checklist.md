@@ -34,19 +34,16 @@
 | NAV-04 | Navigace    | Interní odkazy nevedou na 404 / prázdné stránky            | High     | Netestováno |          |
 | NAV-05 | Navigace    | Web se správně otevírá v Chrome, Firefox, Edge             | High     | Netestováno |          |
 
----
-
-## Katalog produktů
 
 | ID     | Sekce       | Kontrolní bod                                                   | Priorita | Status      | Poznámky |
-|--------|-------------|--------------------------------------------------------     ----|----------|-------------|----------|
+|--------|-------------|-----------------------------------------------------------------|----------|-------------|----------|
 | CAT-01 | Katalog     | Stránka katalogu se načítá bez chyb                             | High     | Netestováno |          |
 | CAT-02 | Katalog     | Produkty mají název, cenu a obrázek                             | High     | Netestováno |          |
 | CAT-03 | Katalog     | Kliknutí na produkt vede na detail produktu                     | High     | Netestováno |          |
-| CAT-04 | Katalog     | Počet produktů odpovídá očekávání (paginace / infinite scroll)  | Medium | Netestováno   |          |
+| CAT-04 | Katalog     | Počet produktů odpovídá očekávání (paginace / infinite scroll)  | Medium   | Netestováno |          |
 | CAT-05 | Katalog     | Při prázdném katalogu se zobrazí jasná zpráva                   | Medium   | Netestováno |          |
 
----
+
 
 ## Filtrování a řazení
 
